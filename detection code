@@ -29,4 +29,4 @@ prediction=model.predict(input_reshaped)
 if prediction[0]=='R':
   print('Object is a Rock.')
 else:
-  print('Object is a Mine.')
+  print('Object is a Mine.') 
